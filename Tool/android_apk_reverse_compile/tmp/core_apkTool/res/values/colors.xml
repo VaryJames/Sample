@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="back_dark_gray">#ffcccccc</color>
+    <color name="back_gray">#ffd5d5d5</color>
+    <color name="back_light_gray">#ff777777</color>
+    <color name="back_line">#ffaaaaaa</color>
+    <color name="back_orange">#ffff9600</color>
+    <color name="bankcard_add">#ffff9600</color>
+    <color name="bankcard_pay_color">#ffb47831</color>
+    <color name="btn_background">#fff4a63d</color>
+    <color name="but_back_red">#ffdd5153</color>
+    <color name="dialog_back">#00000000</color>
+    <color name="head_back">#ff333333</color>
+    <color name="key_gray">#ffc9cbd0</color>
+    <color name="keyboard_confirm_clicked">#ffe48300</color>
+    <color name="keyboard_confirm_normal">#fff4a63d</color>
+    <color name="keypay_type_color">#ff999999</color>
+    <color name="keypay_zt_back">#fff4f4f4</color>
+    <color name="layout_bankcard_bg">#ffdd5153</color>
+    <color name="layout_summary_bg">#fff4f4f4</color>
+    <color name="line_gray">#ffb5b5b5</color>
+    <color name="list_divider">#ffc4c4c4</color>
+    <color name="loading_fontcolor">#ffb47a3c</color>
+    <color name="pay_successful">#fff4a63d</color>
+    <color name="pp_gray">#ff999999</color>
+    <color name="pp_line">#fffcc592</color>
+    <color name="pp_white">#ffffffff</color>
+    <color name="summary_color">#fff39700</color>
+    <color name="text_divider">#ffe9e9e9</color>
+    <color name="type_color">#ffff8f00</color>
+</resources>

@@ -1,0 +1,9 @@
+1、apktool ：反编译资源文件，如xml等。v2.0.0 apktool d core.apk
+
+2、dex2jar：反编译dex文件，生成jar文件。
+
+3、jd-gui ：反编译jar文件，看到源码。
+
+
+For additional info, see: http://ibotpeaches.github.io/Apktool/
+For smali/baksmali info, see: http://code.google.com/p/smali/

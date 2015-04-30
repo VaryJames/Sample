@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/bankcard_information_layout_color" android:layout_width="fill_parent" android:layout_height="@dimen/layout_bankcard_information_height" android:minHeight="@dimen/layout_bankcard_information_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+        <TextView android:textSize="@dimen/font_medium" android:textColor="@color/head_back" android:id="@id/listitem_bankname" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/textview_bankcard_information_mLeft" android:text="工商银行储蓄卡" />
+        <TextView android:textSize="@dimen/pp_padding_text" android:textColor="@color/pp_gray" android:id="@id/listitem_cardno" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/textview_bankcard_information_mTop" android:text=" 尾号1234" android:layout_weight="1.0" />
+        <ImageView android:id="@id/listitem_selected" android:background="@drawable/ico_right" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="@dimen/image_bankcard_information_mRight" />
+    </LinearLayout>
+    <TextView android:background="@color/list_divider" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+</LinearLayout>

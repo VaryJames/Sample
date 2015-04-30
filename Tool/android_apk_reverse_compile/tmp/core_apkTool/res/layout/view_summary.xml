@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@drawable/shapeitem" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/pay_summary_pay_amount" android:textColor="@android:color/white" android:layout_gravity="left" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/textview_pay_amount_mLeft" android:layout_marginTop="@dimen/textview_pay_amount_mTop" android:text="@string/zsht_pay_money" />
+    <RelativeLayout android:gravity="center" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginBottom="@dimen/layout_product_mBottom">
+        <LinearLayout android:orientation="horizontal" android:id="@id/pp_home_pay_money_flag" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerHorizontal="true">
+            <TextView android:textSize="@dimen/font_huge" android:textColor="@android:color/white" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="¥" android:layout_alignBaseline="@id/tv_pay_money" android:layout_alignBottom="@id/tv_pay_money" />
+            <TextView android:textSize="@dimen/pay_summary_pay_money" android:textColor="@android:color/white" android:gravity="center" android:id="@id/tv_pay_money" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="10.00" android:maxLines="1" android:maxLength="7" android:inputType="numberDecimal" />
+        </LinearLayout>
+        <TextView android:textSize="@dimen/font_medium" android:textColor="@android:color/white" android:gravity="center" android:id="@id/pp_home_product_name_tv" android:paddingBottom="@dimen/textview_product_name_mBottom" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/textview_product_name_mTop" android:text="商品名称：新年快乐礼包" android:layout_below="@id/pp_home_pay_money_flag" android:layout_centerHorizontal="true" />
+    </RelativeLayout>
+</LinearLayout>

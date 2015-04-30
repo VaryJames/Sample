@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_gravity="center" android:orientation="vertical" android:background="@drawable/shape_rectangle_white" android:layout_width="290.0dip" android:layout_height="230.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="50.0dip">
+        <ImageView android:layout_gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="30.0dip" android:layout_marginLeft="15.0dip" android:src="@drawable/loading_logo" android:scaleType="fitStart" android:layout_weight="1.0" />
+        <ImageButton android:layout_gravity="center_vertical" android:id="@id/dialog_top_cancel" android:background="@drawable/ico_close" android:layout_width="30.0dip" android:layout_height="30.0dip" android:layout_marginRight="10.0dip" android:scaleType="centerInside" />
+    </LinearLayout>
+    <WebView android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</LinearLayout>

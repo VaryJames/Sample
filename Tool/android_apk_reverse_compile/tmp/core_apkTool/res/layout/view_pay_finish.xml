@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:background="@drawable/shapeitem" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/layout_pay_finish_miniHeight"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/pay_finish" android:textStyle="bold" android:textColor="@android:color/white" android:gravity="center" android:id="@id/finish_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/support_success" android:maxEms="4" />
+</LinearLayout>

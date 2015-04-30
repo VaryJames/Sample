@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/layout_summary_bg" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:id="@id/layout_grant_info" android:layout_width="fill_parent" android:layout_height="@dimen/pp_row_height" android:layout_marginLeft="@dimen/layout_title_mLeft" android:layout_marginRight="@dimen/layout_title_mRight">
+        <TextView android:textSize="@dimen/font_small" android:textColor="@color/bankcard_pay_color" android:layout_gravity="center_vertical" android:id="@id/tv_info_grant" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/layout_title_textview_mLeft" android:layout_marginRight="@dimen/layout_title_textview_mRight" android:text="@string/keypay_typeface" />
+    </LinearLayout>
+    <TextView android:background="@color/text_divider" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/layout_title_mLeft" android:layout_marginRight="@dimen/layout_title_mRight" android:height="@dimen/line_gray_height" />
+    <LinearLayout android:background="@color/bankcard_pay_listview_color" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+        <ListView android:id="@id/keypay_list" android:background="@color/bankcard_pay_listview_color" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/listview_bankcard_pay_mLeft" android:layout_marginTop="@dimen/listview_bankcard_pay_mTop" android:layout_marginRight="@dimen/listview_bankcard_pay_mRight" android:layout_marginBottom="@dimen/listview_bankcard_pay_mBottom" android:divider="@color/bankcard_pay_listview_color" />
+    </LinearLayout>
+    <TextView android:background="@color/text_divider" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/layout_title_mLeft" android:layout_marginRight="@dimen/layout_title_mRight" android:height="@dimen/line_gray_height" />
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <Button android:id="@id/pp_btn_pay" android:layout_marginLeft="@dimen/button_click_pay_mLeft" android:layout_marginTop="@dimen/button_click_pay_mTop" android:layout_marginRight="@dimen/button_click_pay_mRight" android:layout_marginBottom="@dimen/button_click_pay_mBottom" android:text="@string/pp_btn_auth_pay" style="@style/button_pay" />
+        <Button android:textSize="@dimen/font_medium" android:textColor="@color/pp_gray" android:id="@id/pp_btn_change_pay" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/button_bill_pay_transport_mBottom" android:text="@string/pp_btn_charge_pay" />
+    </LinearLayout>
+</LinearLayout>

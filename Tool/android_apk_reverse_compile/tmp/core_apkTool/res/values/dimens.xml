@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16.0dip</dimen>
+    <dimen name="activity_vertical_margin">16.0dip</dimen>
+    <dimen name="font_big">20.0dip</dimen>
+    <dimen name="font_grand">24.0dip</dimen>
+    <dimen name="font_huge">34.0dip</dimen>
+    <dimen name="font_medium">15.0dip</dimen>
+    <dimen name="font_mini">12.0dip</dimen>
+    <dimen name="font_small">13.0dip</dimen>
+    <dimen name="pay_finish">49.0dip</dimen>
+    <dimen name="pay_summary_pay_amount">17.0dip</dimen>
+    <dimen name="pay_summary_pay_money">75.0dip</dimen>
+    <dimen name="pp_dialog_button_height">39.0dip</dimen>
+    <dimen name="pp_header_height">48.0dip</dimen>
+    <dimen name="pp_padding_edit">14.0dip</dimen>
+    <dimen name="pp_padding_layout">15.0dip</dimen>
+    <dimen name="pp_padding_text">10.0dip</dimen>
+    <dimen name="pp_row_height">39.0dip</dimen>
+    <dimen name="summary_size">31.0dip</dimen>
+    <dimen name="support_success">38.0dip</dimen>
+</resources>

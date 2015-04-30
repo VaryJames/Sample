@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/view_new_verification" android:background="@color/keypay_zt_back" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_alignParentLeft="true" android:layout_alignParentStart="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListView android:id="@id/keypay_list" android:background="@color/pay_second_listview_color" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/listview_pay_second_mLeft" android:layout_marginTop="@dimen/listview_pay_second_mTop" android:layout_marginRight="@dimen/listview_pay_second_mRight" android:layout_marginBottom="@dimen/listview_pay_second_mBottom" android:divider="@color/line_gray" android:dividerHeight="1.0px" android:layout_weight="1.0" />
+    <TextView android:background="@color/line_gray" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/listview_pay_second_mLeft" android:layout_marginRight="@dimen/listview_pay_second_mRight" android:height="@dimen/line_gray_height" />
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <Button android:id="@id/verificat_but" android:layout_marginLeft="@dimen/button_pay_success_mLeft" android:layout_marginTop="@dimen/button_pay_success_mTop" android:layout_marginRight="@dimen/button_pay_success_mRight" android:layout_marginBottom="@dimen/button_pay_success_mBottom" android:text="@string/pp_btn_pay" style="@style/button_pay" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bankcard_add_layout_color">#fff4f4f4</color>
+    <color name="bankcard_information_layout_color">#fff4f4f4</color>
+    <color name="bankcard_pay_listview_color">#fff4f4f4</color>
+    <color name="bankcard_pay_textview_color">#ffb5b5b5</color>
+    <color name="pay_second_listview_color">#fff4f4f4</color>
+</resources>

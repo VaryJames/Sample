@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/layout_summary_bg" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/layout_pay_success_list_mLeft" android:layout_marginTop="@dimen/layout_pay_success_list_mTop" android:layout_marginRight="@dimen/layout_pay_success_list_mRight" android:layout_weight="1.0">
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/layout_commodity_name_mTop">
+            <TextView android:textSize="@dimen/font_mini" android:textColor="@color/pp_gray" android:gravity="left" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/commodityname" android:layout_weight="1.0" />
+            <TextView android:textSize="@dimen/font_mini" android:textColor="@color/pp_gray" android:gravity="right" android:id="@id/products_name" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/productsname" android:layout_weight="1.0" />
+        </LinearLayout>
+        <TextView android:background="@drawable/shape_dotted_line" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/layout_pay_amount_mTop">
+            <TextView android:textSize="@dimen/font_mini" android:textColor="@color/pp_gray" android:gravity="left" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/zsht_pay_money" android:layout_weight="1.0" />
+            <TextView android:textSize="@dimen/font_mini" android:textColor="@color/back_orange" android:gravity="right" android:id="@id/pay_amount" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/money" android:layout_weight="1.0" />
+        </LinearLayout>
+        <TextView android:background="@drawable/shape_dotted_line" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        <TextView android:textSize="@dimen/font_medium" android:textColor="@color/head_back" android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/textview_pay_success_tips_mTop" android:text="@string/explain" />
+    </LinearLayout>
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <Button android:id="@id/btn_finish" android:layout_marginLeft="@dimen/button_pay_success_mLeft" android:layout_marginTop="@dimen/button_pay_success_mTop" android:layout_marginRight="@dimen/button_pay_success_mRight" android:layout_marginBottom="@dimen/button_pay_success_mBottom" android:text="@string/returnbut" style="@style/button_pay" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/keypay_zt_back" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textColor="@color/keypay_type_color" android:id="@id/pp_info_tv" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/pp_info_tv_mLeft" android:layout_marginTop="@dimen/pp_info_tv_mTop" android:text="@string/title" />
+    <LinearLayout style="@style/OrderLayoutStyle">
+        <LinearLayout style="@style/InputLayoutStyle">
+            <TextView android:text="@string/bcid" style="@style/InputTitleStyle" />
+            <EditText android:id="@id/add_card_no" android:hint="@string/bcid_input" android:maxLength="19" android:inputType="number" style="@style/InputEditTextStyle" />
+        </LinearLayout>
+        <LinearLayout style="@style/InputLayoutStyle">
+            <TextView android:id="@id/tv_merchant_amt" android:text="@string/id_num" android:digits="0123456789xX" android:layout_centerVertical="true" style="@style/InputTitleStyle" />
+            <EditText android:id="@id/add_id_no" android:hint="@string/id_input" android:maxLength="18" android:digits="0123456789xX" android:layout_toRightOf="@id/tv_merchant_amt" android:layout_centerVertical="true" style="@style/InputEditTextStyle" />
+        </LinearLayout>
+        <LinearLayout style="@style/InputLayoutStyle">
+            <TextView android:text="@string/account_name" style="@style/InputTitleStyle" />
+            <EditText android:id="@id/add_account_name" android:hint="@string/name_input" android:maxLength="14" style="@style/InputEditTextStyle" />
+        </LinearLayout>
+        <LinearLayout style="@style/InputLayoutStyle">
+            <TextView android:text="@string/phone_num" style="@style/InputTitleStyle" />
+            <EditText android:id="@id/add_phone_no" android:hint="@string/phone_input" android:maxLength="11" android:inputType="number" style="@style/InputEditTextStyle" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/select_protocol_box_mLeft" android:layout_marginTop="@dimen/select_protocol_box_mTop">
+        <CheckBox android:id="@id/card_info_checkbox" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/checkbox_mLeft" android:layout_marginTop="@dimen/checkbox_mTop" android:layout_marginRight="@dimen/checkbox_mRight" android:layout_marginBottom="@dimen/checkbox_mBottom" android:checked="true" android:scaleType="fitStart" android:scaleX="0.5" android:scaleY="0.5" />
+        <TextView android:textSize="@dimen/font_mini" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/checkbox_mTop" android:text="@string/reading_a" />
+        <TextView android:textSize="@dimen/font_mini" android:textColor="@color/back_orange" android:id="@id/bankcard_protocol" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/checkbox_mTop" android:text="@string/reading_b" />
+        <ImageView android:layout_width="@dimen/imageview_bankcard_width" android:layout_height="@dimen/imageview_bankcard_height" android:layout_marginLeft="@dimen/imageview_bankcard_mLeft" android:layout_marginTop="@dimen/imageview_bankcard_mTop" android:src="@drawable/icon_card" android:scaleType="fitCenter" />
+        <TextView android:textSize="@dimen/font_mini" android:textColor="@color/back_orange" android:id="@id/bankcard_info" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="2.0dip" android:layout_marginTop="@dimen/checkbox_mTop" android:text="@string/bankcard_spr" />
+    </LinearLayout>
+    <TextView android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0" />
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <Button android:id="@id/add_next" android:layout_marginLeft="@dimen/button_add_next_mLeft" android:layout_marginTop="@dimen/button_add_next_mTop" android:layout_marginRight="@dimen/button_add_next_mRight" android:layout_marginBottom="@dimen/button_add_next_mBottom" android:text="下一步" style="@style/button_pay" />
+    </LinearLayout>
+</LinearLayout>

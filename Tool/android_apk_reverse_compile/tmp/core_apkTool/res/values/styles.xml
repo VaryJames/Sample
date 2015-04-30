@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="BackgroundScrollViewStyle">
+        <item name="android:background">#ffebebeb</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="Custom" parent="@android:style/Theme.Light" />
+    <style name="Custom.EditText" parent="@android:style/Widget.EditText">
+        <item name="android:windowSoftInputMode">stateAlwaysHidden</item>
+    </style>
+    <style name="Custom.Theme" parent="@style/Custom">
+        <item name="android:windowTitleSize">50.0dip</item>
+        <item name="android:windowTitleBackgroundStyle">@android:drawable/title_bar</item>
+        <item name="android:editTextStyle">@style/Custom.EditText</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:windowSoftInputMode">stateAlwaysHidden</item>
+    </style>
+    <style name="Custom.Theme.MyTranslucent" parent="@style/Custom.Theme">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation</item>
+    </style>
+    <style name="Custom.Theme.Translucent" parent="@style/Custom.Theme">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+    </style>
+    <style name="InputEditTextStyle">
+        <item name="android:textSize">@dimen/font_medium</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:background">@null</item>
+        <item name="android:saveEnabled">true</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">@dimen/input_box_edit_mLeft</item>
+        <item name="android:layout_marginRight">@dimen/input_box_edit_mRight</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="InputLayoutStyle">
+        <item name="android:orientation">horizontal</item>
+        <item name="android:background">@drawable/input_style</item>
+        <item name="android:paddingLeft">@dimen/InputLayoutStyle_input_box_pLeft</item>
+        <item name="android:paddingTop">@dimen/InputLayoutStyle_input_box_pTop</item>
+        <item name="android:paddingRight">@dimen/InputLayoutStyle_input_box_pRight</item>
+        <item name="android:paddingBottom">@dimen/InputLayoutStyle_input_box_pBottom</item>
+        <item name="android:addStatesFromChildren">true</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/InputLayoutStyle_input_box_height</item>
+        <item name="android:layout_marginLeft">@dimen/InputLayoutStyle_input_box_mLeft</item>
+        <item name="android:layout_marginTop">@dimen/InputLayoutStyle_input_box_mTop</item>
+        <item name="android:layout_marginRight">@dimen/InputLayoutStyle_input_box_mRight</item>
+    </style>
+    <style name="InputTitleStyle">
+        <item name="android:textSize">@dimen/font_medium</item>
+        <item name="android:textColor">@color/head_back</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">@dimen/input_box_title_pLeft</item>
+    </style>
+    <style name="InvisibleLineStyle">
+        <item name="android:background">@android:color/black</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">10.0dip</item>
+    </style>
+    <style name="LayoutStyle">
+        <item name="android:orientation">horizontal</item>
+        <item name="android:background">@drawable/input_style</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/LayoutStyle_input_box_height</item>
+    </style>
+    <style name="OrderInfoTextViewStyle">
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:paddingLeft">5.0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">2.0dip</item>
+    </style>
+    <style name="OrderLayoutStyle">
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:background">@color/keypay_zt_back</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">@dimen/layout_bind_information_mLeft</item>
+        <item name="android:layout_marginTop">@dimen/layout_bind_information_mTop</item>
+        <item name="android:layout_marginRight">@dimen/layout_bind_information_mRight</item>
+    </style>
+    <style name="TitleTextViewStyle">
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="button_dialog">
+        <item name="android:textSize">@dimen/font_big</item>
+        <item name="android:textColor">@color/back_orange</item>
+        <item name="android:background">@drawable/shape_rectangle_button_white</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:height">@dimen/button_dialog_height</item>
+    </style>
+    <style name="button_dialog_orange">
+        <item name="android:textSize">@dimen/font_big</item>
+        <item name="android:textColor">@color/pp_white</item>
+        <item name="android:background">@drawable/shape_rectangle_button_orange</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:height">@dimen/button_dialog_height</item>
+    </style>
+    <style name="button_pay">
+        <item name="android:textSize">@dimen/font_big</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:background">@drawable/button_pay</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:height">@dimen/button_pay_height</item>
+    </style>
+    <style name="pp_keyboard_text_size">
+        <item name="android:textSize">30.0dip</item>
+    </style>
+    <style name="smart_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@color/dialog_back</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+</resources>

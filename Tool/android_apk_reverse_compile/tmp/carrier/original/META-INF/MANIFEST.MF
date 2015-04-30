@@ -1,0 +1,148 @@
+Manifest-Version: 1.0
+Built-By: 1.1.0
+Created-By: Android Gradle 1.1.0
+
+Name: assets/mmiap/image/vertical/btn_close.png
+SHA1-Digest: Kh8ykOCuBlsUa6OLVH/jSrHvW70=
+
+Name: assets/mmiap/image/vertical/editbg_a.9.png
+SHA1-Digest: QGXMb8LjWODylPkVZ1y373junbM=
+
+Name: assets/mmiap/image/vertical/keyboard_button_hide.png
+SHA1-Digest: EvSCNXnU8uRq4EiTbNUb0TzJYBA=
+
+Name: AndroidManifest.xml
+SHA1-Digest: OH9V2WGAL7Tqisl+dNIzJ80davg=
+
+Name: assets/mmiap/image/vertical/icon_info.gif
+SHA1-Digest: fmI+/YbNZdIsN0WvSG+lm5zh7ig=
+
+Name: assets/mmiap/image/vertical/logo1.png
+SHA1-Digest: N+e8Mchbjb5hiFPP7/Ogjq6hDWA=
+
+Name: assets/mmiap/image/vertical/button1_Confirm_Press.9.png
+SHA1-Digest: UzrvQws9fuS5mdrnlq5z3WKXU9c=
+
+Name: assets/mmiap/image/vertical/editbg.9.png
+SHA1-Digest: 1m0+JuHqbuFodFKZfF8hAMr3DW8=
+
+Name: assets/mmiap/image/vertical/splash_v.jpg
+SHA1-Digest: 02cQvd2MpTV0uhNn/W552E+BybA=
+
+Name: assets/mmiap/image/vertical/button_back_Press.png
+SHA1-Digest: Kh8ykOCuBlsUa6OLVH/jSrHvW70=
+
+Name: assets/mmiap/image/vertical/keyboard_button.png
+SHA1-Digest: CtkhOTa03WkL0Ra8zpjAIpBpBhg=
+
+Name: assets/mmiap/image/vertical/button_finishbilling_press.png
+SHA1-Digest: BrVgMjJiAoPYkkTNDAPXpH7n1iQ=
+
+Name: assets/mmpay.jar
+SHA1-Digest: xPRgA/qiYe2jND0fxvgKzHDow6A=
+
+Name: assets/armeabi/libidentifyapp.so
+SHA1-Digest: TYq6eelJEBtM721Lg71dJoYdNI8=
+
+Name: assets/mmiap/image/vertical/button2_Confirm.9.png
+SHA1-Digest: QGXMb8LjWODylPkVZ1y373junbM=
+
+Name: CopyrightDeclaration.xml
+SHA1-Digest: lIbqIhBQ6GXXWTUB3O/3a5CZbvE=
+
+Name: assets/mmiap/image/vertical/infoline.png
+SHA1-Digest: RYUCPPwehYMWB3iUCJ9WRAX/dMQ=
+
+Name: assets/mmiap/image/vertical/keyboard_button_hide_press.png
+SHA1-Digest: WAHk880AZV9IqRxg5mi/hvUmwPk=
+
+Name: assets/mmiap/image/vertical/splash_h.jpg
+SHA1-Digest: pQTNLInmQuMvaWhiYODWLql56GU=
+
+Name: assets/mmiap/image/vertical/bg.9.png
+SHA1-Digest: zChTJAXqcE3H+kK2wIR/kyN/HrQ=
+
+Name: assets/mmiap/image/vertical/title2_bg_shadow.png
+SHA1-Digest: Y/omk4KRRyZBUW20FKAJxCg09pM=
+
+Name: assets/mmiap/image/vertical/get_verificationcode_press.9.png
+SHA1-Digest: w9wI7hWNoLR+B2e4eP4YkD27SlY=
+
+Name: assets/mmiap/image/vertical/loading.png
+SHA1-Digest: F/+VFVjbI3Rcwj/oEo94pUJqTBA=
+
+Name: mmiap.xml
+SHA1-Digest: E7j/DxCXykc/LlyhuV16pBgUApk=
+
+Name: assets/mmiap/image/vertical/icon_success.gif
+SHA1-Digest: jz2Ue6iEh7TxiruZv+e9C0l8HFU=
+
+Name: assets/mmiap/image/vertical/keyboard_button_delete_press.png
+SHA1-Digest: yv7satnRxZ23IwgQS1qqoJGaamE=
+
+Name: assets/mmiap/image/vertical/icon_false.gif
+SHA1-Digest: QJUchWVIgEv3GjWyNk4Svz+i/Ms=
+
+Name: assets/mmiap/image/vertical/keyboard_button_press.png
+SHA1-Digest: A/LLFAt35jZldVmonRDl3iMsWcY=
+
+Name: assets/armeabi/libcasdkjni.so
+SHA1-Digest: RSEl7jDhXVbHMb8d/5VAsJJJgtM=
+
+Name: assets/mmiap/image/vertical/editbg_b.9.png
+SHA1-Digest: HxXiDkoiG7IiIi+qKwEX75i3YQM=
+
+Name: assets/mmiap/image/vertical/line.png
+SHA1-Digest: maFvRx2fd1KUAfKeshGYWgjHVzs=
+
+Name: assets/mmiap/image/vertical/button_back.png
+SHA1-Digest: MAKjtMzOcziMm1qiqs2KBpxc2Bw=
+
+Name: assets/mmiap/image/vertical/infobg.9.png
+SHA1-Digest: FwQrOBt3bKF94Eg5Gg6rZYZNbkA=
+
+Name: assets/mmiap/image/vertical/button1_Confirm.9.png
+SHA1-Digest: 4R7Eld1CWay8DOJmOL2lNUDttNo=
+
+Name: assets/mmiap/image/vertical/cmlogo.png
+SHA1-Digest: ZTmXtSAUqDh5jR5saTXau7iaCEM=
+
+Name: assets/mmiap/image/vertical/get_verificationcode.9.png
+SHA1-Digest: F93ixYNe+RkZVuToVd3p+g/AKUY=
+
+Name: assets/mmiap/image/vertical/icon_chifubao.png
+SHA1-Digest: VuJshThtrF4Rjw//Ctr5pIFx5jg=
+
+Name: assets/mmiap/image/vertical/keyboard_bg.png
+SHA1-Digest: 3Mvk4x4VIjjbqnqwrit50fGt9pU=
+
+Name: assets/mmiap/image/vertical/icon_fail.png
+SHA1-Digest: 51OJDiBAtzfTwxbHL7TEC8vvx+Q=
+
+Name: assets/mmiap/image/vertical/button_finishbilling.png
+SHA1-Digest: IubPvq7wECqp0SAmjupM7jQBN3M=
+
+Name: assets/mmiap/image/vertical/dotLine.png
+SHA1-Digest: 3Ax9CZuD13XHINWM2RKMQn64Dl0=
+
+Name: assets/mmiap/image/vertical/icon_success.png
+SHA1-Digest: wVvSirm/5UmyfiCi0Vp9ir4u0tM=
+
+Name: assets/mmiap/image/vertical/title1_bg.png
+SHA1-Digest: Mk9uKdROHrMkoWDpgcd7Pm85gfU=
+
+Name: assets/mmiap/image/vertical/title2_bg.png
+SHA1-Digest: at2u0fbDEzTAO0+wRjZwD7WAJJs=
+
+Name: resources.arsc
+SHA1-Digest: GY9o0fnhxn2j0jS825QrqOasXJU=
+
+Name: classes.dex
+SHA1-Digest: vh2dSgkaATX1axa+h4OzmWctBco=
+
+Name: assets/mmiap/image/vertical/keyboard_button_delete.png
+SHA1-Digest: lBQG2fICgpQKnUWaoBv8e6tpXOI=
+
+Name: assets/mmiap/image/vertical/logo.png
+SHA1-Digest: oVoYtAx3dwcdhTusxb9lgQATHhs=
+

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:background="@color/head_back" android:layout_width="fill_parent" android:layout_height="48.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center" android:id="@id/head_return" android:padding="10.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/image_header_tip_mLeft" android:src="@drawable/ico_back" />
+    <TextView android:textSize="@dimen/pay_summary_pay_amount" android:textColor="@color/summary_color" android:gravity="center" android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="@dimen/textview_header_mRight" android:text="@string/app_header" android:layout_weight="1.0" />
+</LinearLayout>

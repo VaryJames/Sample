@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/layout_summary_bg" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+        <TextView android:textSize="@dimen/font_small" android:textColor="@color/pp_gray" android:id="@id/tv_pay_information" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/information_bill" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <Button android:id="@id/pp_btn_pay" android:layout_marginLeft="@dimen/Button_bill_pay_mLeft" android:layout_marginTop="@dimen/button_bill_pay_mTop" android:layout_marginRight="@dimen/button_bill_pay_mRight" android:layout_marginBottom="@dimen/button_bill_pay_mBottom" android:text="@string/billpayment" style="@style/button_pay" />
+        <Button android:textSize="@dimen/font_medium" android:textColor="@color/pp_gray" android:id="@id/pp_btn_change_pay" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/button_bankcard_pay_mBottom" android:text="@string/pp_btn_bankcard_pay" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,358 @@
+Manifest-Version: 1.0
+Built-By: 1.1.0
+Created-By: Android Gradle 1.1.0
+
+Name: res/drawable-xhdpi-v4/iconc_dailog.png
+SHA1-Digest: TRuCLvbjQ2TYT1/lgVik4yXuzBQ=
+
+Name: res/layout/view_new_verification.xml
+SHA1-Digest: ec+OXdgyYYZqXtnWekVQheGNSOA=
+
+Name: res/drawable-hdpi-v4/key09.png
+SHA1-Digest: 7GI0lEWmpC+L7L616C11r53Xm3o=
+
+Name: res/drawable/password_gray.xml
+SHA1-Digest: duaJmnp5ysW5gZbgociwTRDH4OU=
+
+Name: res/layout-land/activity_pay_success.xml
+SHA1-Digest: eV5cPiCUIuKPeHacAPHjOrXjqaY=
+
+Name: res/drawable/shape_rectangle_button_orange.xml
+SHA1-Digest: nEjv4fil9zf3vEJYrUYFsmoRwj0=
+
+Name: res/drawable-mdpi-v4/spinner_7.png
+SHA1-Digest: tKzsV5dilgdMF1yNi26DcnIvhjM=
+
+Name: res/layout-port/activity_bankcard_protocol.xml
+SHA1-Digest: V6xwzc2EeXV452Is/lrmB8jH0CQ=
+
+Name: res/drawable/butshape.xml
+SHA1-Digest: p8jOOGW+qQLuAeOChDZYf0Ltc4s=
+
+Name: res/layout/view_bankcard_information.xml
+SHA1-Digest: K5MBQyK6b+e9BPUgqsJVWDuEh9M=
+
+Name: res/drawable-hdpi-v4/keyboard_backup_portrait.png
+SHA1-Digest: XUcRzq2ap/33RAW5is3kgM0+Y6s=
+
+Name: res/drawable/button_pay_pressed.xml
+SHA1-Digest: hfqLNaIH9UPXiFs2J8WpwRUr1Eg=
+
+Name: res/drawable-hdpi-v4/key00.png
+SHA1-Digest: yLHrPAsAlytgFqlhcyPGqnttzvI=
+
+Name: res/anim/spinner.xml
+SHA1-Digest: ZB4ge5MFjgivn2/BpUA8GJgU844=
+
+Name: res/layout-port/activity_pay_bankcard_new.xml
+SHA1-Digest: 7jIHfMuvuBZzB9FgX/E0Ki4Yf/4=
+
+Name: res/layout/view_bankcard_pay.xml
+SHA1-Digest: XO4kgtLvwdNckPJk00WZI8Uoygo=
+
+Name: res/layout/view_card_info.xml
+SHA1-Digest: kwx3n+/QSHHnmQ5TTKM7axOdBmw=
+
+Name: res/layout/view_pay_success.xml
+SHA1-Digest: XGG4LMAJx0qMINojFHBx7/Hjcto=
+
+Name: res/drawable-xhdpi-v4/arrow_one.png
+SHA1-Digest: akGks317BqqfTn6HLg30nXcfDt0=
+
+Name: res/layout/view_dialog_loading.xml
+SHA1-Digest: lq2W/OcwgJLeSaCqz/PAn59tvPw=
+
+Name: res/drawable/shape_rectangle_button_white.xml
+SHA1-Digest: 7gYDw0S/EDYVk52BcmuHborfDTA=
+
+Name: res/layout/view_dialog_bancard_info.xml
+SHA1-Digest: 2fxYmq46NBXAcXsyY26pkC9k10g=
+
+Name: res/anim/slise_in_bottom.xml
+SHA1-Digest: sgOAZmBoxzvT9DFst99LUaVBTUQ=
+
+Name: res/drawable-mdpi-v4/spinner_5.png
+SHA1-Digest: 7d270X2WK+xBjtWEDoSj1u7MDFg=
+
+Name: res/drawable-xxhdpi-v4/order_message.9.png
+SHA1-Digest: zhSQeMrEUrsFp2FkeAnYCuioPZI=
+
+Name: assets/armeabi/libppsec_c.so
+SHA1-Digest: hFDEHk8WbHAeoPxJ4JJT5ZdSAwg=
+
+Name: res/drawable/shape_top_rectangle.xml
+SHA1-Digest: 4ftkyKnZiRwFA+X9JEhWHvwCxGo=
+
+Name: res/drawable-hdpi-v4/key02.png
+SHA1-Digest: vj4inv4rGIU94XvC/C1acv4VnfU=
+
+Name: res/drawable-xxhdpi-v4/button.9.png
+SHA1-Digest: aMW/CY6qqAJRu+3NzVGYV10VDbY=
+
+Name: res/layout-port/activity_pay_second.xml
+SHA1-Digest: VLd1hegTK6PcAUu0/FZC/om7Wb0=
+
+Name: res/drawable/pp_password_white.xml
+SHA1-Digest: 3aJtaSs/YhfOij04mNqj+nMf/Ho=
+
+Name: res/layout/view_bankcard_add.xml
+SHA1-Digest: ct0EnwnpPH9olU9LXVR8xEIcSaQ=
+
+Name: res/layout/view_pay_finish.xml
+SHA1-Digest: Kk0+EH4uCCRBtYgrqjZnx5IROJ8=
+
+Name: res/drawable/zsht_conner.xml
+SHA1-Digest: VY4Q2COcQNHpUnZR3AAJNo2F1zY=
+
+Name: resources.arsc
+SHA1-Digest: o8b0+LTHzHIvOG19jJthKLd12ZI=
+
+Name: res/layout/view_pay_second.xml
+SHA1-Digest: HEmn6ajjAbHibdO1/M9Uzv6WPGs=
+
+Name: AndroidManifest.xml
+SHA1-Digest: A4GzhEnY/HpcsSWpuxASwAoD2+M=
+
+Name: res/layout-port/activity_identity_verification.xml
+SHA1-Digest: QQD77TtCiOF76mQx86ZQi7Eb3fQ=
+
+Name: res/drawable-hdpi-v4/bg_keyboard.png
+SHA1-Digest: J8YSFwrjmiNw4xq3WFXL6+JBcmA=
+
+Name: lib/armeabi/libppsec_c2.so
+SHA1-Digest: 5vxrKLa+hbq0WybizhFEbeBMZ6M=
+
+Name: res/drawable-hdpi-v4/key05.png
+SHA1-Digest: qzczOQzjw18SrM7dH0zkP5TR3xo=
+
+Name: res/drawable-xxhdpi-v4/icon_card.png
+SHA1-Digest: m/Bqy/DkpG+dTh0GDBHgcmQDRCM=
+
+Name: assets/armeabi/libppsec_c2.so
+SHA1-Digest: 5vxrKLa+hbq0WybizhFEbeBMZ6M=
+
+Name: res/drawable-mdpi-v4/spinner_2.png
+SHA1-Digest: Mp3txpw3TqvK4W1UCx/aJ0Vg4hA=
+
+Name: res/drawable/button_pay_disabled.xml
+SHA1-Digest: JAJtgVEVwS4R6hX15RpHfWUafCg=
+
+Name: res/drawable/shape_rectangle_white.xml
+SHA1-Digest: 7gYDw0S/EDYVk52BcmuHborfDTA=
+
+Name: res/drawable-hdpi-v4/keyfin.png
+SHA1-Digest: AuIQ+Ou9Ye+H7Hm1xZ8v3KNMhK8=
+
+Name: res/drawable-mdpi-v4/spinner_11.png
+SHA1-Digest: RrYZjxDNQGbYqb9Bz1OAeziFWuU=
+
+Name: assets/armeabi/libppsec.so
+SHA1-Digest: 3vYKqu8kBVaORz2Dk4hEHy+pzT0=
+
+Name: res/drawable/input_style.xml
+SHA1-Digest: P+Bx2ADwl9Vko+fD2aCRhAh46rM=
+
+Name: res/drawable/button_pay.xml
+SHA1-Digest: 45kh/GBFAWNeoA9HqFaI/A0xUkY=
+
+Name: res/layout-land/activity_pay_second.xml
+SHA1-Digest: EjxFd4lHPIsWE2m3lxiuEqlN3xQ=
+
+Name: res/drawable/shapeitem.xml
+SHA1-Digest: 0k9yx+DFysrQAVCGL2YBBPgONPY=
+
+Name: res/drawable-mdpi-v4/spinner_9.png
+SHA1-Digest: YKGre5Ku+OoLJZ7YcCZ3yu1aVoI=
+
+Name: res/drawable-xhdpi-v4/logo_dialog.png
+SHA1-Digest: lXYzylU6om0PCZFwR1E/MehwX18=
+
+Name: res/layout/view_summary.xml
+SHA1-Digest: pzQ6NNXpyquBYqtZ72eGjIAHd2Q=
+
+Name: res/drawable-hdpi-v4/key07.png
+SHA1-Digest: aPrx1QrXs9+fxsVq9fSpzWEtUHs=
+
+Name: res/drawable-mdpi-v4/spinner_0.png
+SHA1-Digest: ud3mQ7XBqWkbmM/NRoHfvVW78ss=
+
+Name: res/drawable-xhdpi-v4/zsht_arrow_gray.png
+SHA1-Digest: fwiLvOTEacpgTAjaKUt1jS1kCQU=
+
+Name: res/drawable-xhdpi-v4/ad_close_img.png
+SHA1-Digest: +blWY2c27w8wNn56TczV5UdCEqE=
+
+Name: res/drawable-xhdpi-v4/loading_logo.png
+SHA1-Digest: 1VXnucV4T8kdt9Oj4rYney9sWeM=
+
+Name: res/drawable-mdpi-v4/spinner_8.png
+SHA1-Digest: QIKU2MajPq0y70dfJWUHzr23uds=
+
+Name: res/drawable-hdpi-v4/key08.png
+SHA1-Digest: nGrPfY4VjCtmhSautnto/V4GHFQ=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA1-Digest: I3MP0NXnINH3Gb4a/IxI+nMF2mw=
+
+Name: res/layout/view_waiting.xml
+SHA1-Digest: 9kMgwQe2UMlRaAEGMZBhBKKqaZc=
+
+Name: res/drawable-xhdpi-v4/ico_back.png
+SHA1-Digest: IuNc3HNP1C4KRUmQVpor84ioJ8E=
+
+Name: res/drawable-hdpi-v4/hide_keyboard_landscape.png
+SHA1-Digest: 3kdZH9EtiPWvvqe3e8yy4OMP9LY=
+
+Name: res/drawable-xhdpi-v4/zsht_btn_title_back_normal.png
+SHA1-Digest: L17M3Ch8XLvwRzOXZ7B33OPgpvo=
+
+Name: res/drawable-mdpi-v4/spinner_6.png
+SHA1-Digest: 4gMnSFFzJxw5Gf1Am2Ba9EorTIo=
+
+Name: res/layout-land/activity_pay_bankcard_new.xml
+SHA1-Digest: Ew8wsK7igNt1N4A5hJ26BzgcrcA=
+
+Name: res/drawable/shape_dotted_line.xml
+SHA1-Digest: kXlkPkPXr4RHUZtb+s7oG1bcfPo=
+
+Name: res/layout-land/activity_bill_pay.xml
+SHA1-Digest: sYsesCp1vdYLwda23FnnZMc8qf4=
+
+Name: res/drawable-xhdpi-v4/ico_right.png
+SHA1-Digest: bmDIiU7HsBz28ryOFDNYnlDeWrc=
+
+Name: res/layout-port/activity_bill_pay.xml
+SHA1-Digest: vTC0fBmIY4K7qz+FAMAgXW590OA=
+
+Name: res/drawable-xxhdpi-v4/input_focused.9.png
+SHA1-Digest: fRfIEAf1fSxuhfWMhf+xWdrC56o=
+
+Name: lib/armeabi/libppsec.so
+SHA1-Digest: m4hTEN8oPTJY6soSKsxv4mwenW4=
+
+Name: res/drawable-hdpi-v4/key01.png
+SHA1-Digest: /ZN5mPiUnjcbGnclneUQDMf9fnU=
+
+Name: res/layout/view_header.xml
+SHA1-Digest: ujppaYHy8XKhaWloWa+ZkeIV+Es=
+
+Name: res/drawable/shape_dotted_line_orange.xml
+SHA1-Digest: hPv6TApJhRDQhx4bbhvuHa1Wc7I=
+
+Name: res/layout/view_bankcard_info.xml
+SHA1-Digest: zsxV93+xVMivNXXxm5/F71uDQig=
+
+Name: res/drawable-hdpi-v4/keydel.png
+SHA1-Digest: qkotyDbmPGWQRatxC7Y683gRIBQ=
+
+Name: res/drawable-xxhdpi-v4/input.9.png
+SHA1-Digest: gRCI5HGaBcv30nrSu89tGVfpLPY=
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA1-Digest: UCzYT6RE8m1+z99KNVBkhnl38jY=
+
+Name: res/layout-land/activity_pay_bankcard_old.xml
+SHA1-Digest: y8I4J/Pq76WDHo32hwTRWhs3hBU=
+
+Name: res/drawable-xhdpi-v4/ico_close.png
+SHA1-Digest: eGXPfMbJI8BygbOEU7Loxm2J9Pk=
+
+Name: res/drawable/button_pay_normal.xml
+SHA1-Digest: 6UjBWcZTeN903BKb5LRWn35Utlc=
+
+Name: res/anim/slise_out_boottom.xml
+SHA1-Digest: WjfDKm3oktjyxRo6/rIPewj9sOk=
+
+Name: res/drawable-mdpi-v4/spinner_4.png
+SHA1-Digest: SIVjxhI8Lb4i8G1pKBRB2S70zCk=
+
+Name: res/drawable-hdpi-v4/key03.png
+SHA1-Digest: pZqDksGkENftAuVFRhWqOVWpIrI=
+
+Name: res/layout/view_identity_verification.xml
+SHA1-Digest: 2Zd06zo1pwjRaaiJMSwN4wrtLyo=
+
+Name: res/drawable/spinner.png
+SHA1-Digest: vDHf4HY2SEPRqkO/NvdVPo2RjlA=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: RQ09RDJf3yWYEKYOavo2ED4Yaz0=
+
+Name: res/drawable-mdpi-v4/spinner_3.png
+SHA1-Digest: 4cP2ftTwp9FT09yUj7GZF+H93fY=
+
+Name: res/drawable-hdpi-v4/key04.png
+SHA1-Digest: uCJIpOfSkRJIqsctG8sYcBHUgPY=
+
+Name: lib/armeabi/libppsec_c.so
+SHA1-Digest: hFDEHk8WbHAeoPxJ4JJT5ZdSAwg=
+
+Name: res/layout-land/activity_identity_verification.xml
+SHA1-Digest: 7s5SxDJsJfu3sQiXDpq82fDkhKA=
+
+Name: res/layout-port/activity_pay_bankcard_old.xml
+SHA1-Digest: 7f+QkCBQhn0dgK6Tv63VHy1kCvY=
+
+Name: res/drawable/jbshape.xml
+SHA1-Digest: yh5GeCTsb9Hi2lUCKbjsCf1Esmg=
+
+Name: res/layout-land/activity_bind_bankcard.xml
+SHA1-Digest: dWEFj45VWhGcpt/6LfBT1SSYVhg=
+
+Name: res/drawable/keyboard_bg_confirm_but.xml
+SHA1-Digest: 0ONAoO6ZllZLacAim0sdqPVA/YA=
+
+Name: res/layout/view_dialog_warning.xml
+SHA1-Digest: DRhG/sd1pBxcO7zgbEdX8oEFiT4=
+
+Name: res/drawable-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: wiul9rNNPozlmnyM+gsOjT9SGTk=
+
+Name: res/drawable-xhdpi-v4/loading_rainbow.png
+SHA1-Digest: /hbS1IJnZwxABKM8zTruzcF/NTY=
+
+Name: res/drawable-xxhdpi-v4/logo.png
+SHA1-Digest: xtuaino54inG9WhCKowft0CMLWQ=
+
+Name: res/drawable-hdpi-v4/key06.png
+SHA1-Digest: 5rPYdDwjDhF7MGEjdZj7DwQx25s=
+
+Name: res/layout-port/activity_pay_success.xml
+SHA1-Digest: 8QWITjlwPSlsB4160hR6bxHSJ3I=
+
+Name: res/drawable/bankcard_conner.xml
+SHA1-Digest: p2gC2/JEhFO8JXR7AESs3fvGzeU=
+
+Name: res/drawable-xhdpi-v4/logo_big.png
+SHA1-Digest: P7T84hNvTXkuPjz59fUrkWxMOaI=
+
+Name: res/layout-land/activity_bankcard_protocol.xml
+SHA1-Digest: V6xwzc2EeXV452Is/lrmB8jH0CQ=
+
+Name: res/drawable-xhdpi-v4/loading_close.png
+SHA1-Digest: gwKkUUx71qAuMxFfBNvlMY969tc=
+
+Name: res/drawable-mdpi-v4/spinner_1.png
+SHA1-Digest: 7SzlPXQTfXQOxORauO1ACXB0n9M=
+
+Name: res/layout/view_dialog_choice.xml
+SHA1-Digest: 37vDnF3UaYkZJo5vEaDvXGK2I6o=
+
+Name: res/layout-port/activity_bind_bankcard.xml
+SHA1-Digest: gQlXAZ9UtrzYLjmNNi0KspGR7NE=
+
+Name: res/drawable-xhdpi-v4/logo_small.png
+SHA1-Digest: AtenxJ83mcODGbSjX9x/jCxe8Z8=
+
+Name: res/drawable/heshape.xml
+SHA1-Digest: v9gnwidYOWwAmMcoTRQ5rZyjZ48=
+
+Name: res/drawable-mdpi-v4/spinner_10.png
+SHA1-Digest: HUjVltpbEcBUnz8TiuZrfClo4Rg=
+
+Name: classes.dex
+SHA1-Digest: kThZFfuMV+KkYyTVfdU/H7HVmd0=
+
+Name: res/layout/view_bill_pay.xml
+SHA1-Digest: 2ZO3LOXpkfmmy4KGTPQ2Zy7VqXM=
+

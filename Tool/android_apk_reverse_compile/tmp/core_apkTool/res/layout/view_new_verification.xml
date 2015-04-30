@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/view_new_verification" android:background="@color/keypay_zt_back" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_alignParentLeft="true" android:layout_alignParentStart="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:id="@id/credit_layout_date" android:layout_marginLeft="@dimen/layout_verification_input_box_mLeft" android:layout_marginTop="@dimen/layout_verification_input_box_mTop_first" android:layout_marginRight="@dimen/layout_verification_input_box_mRight" style="@style/LayoutStyle">
+        <TextView android:text="有效期:" style="@style/InputTitleStyle" />
+        <EditText android:id="@id/edit_ValidDate" android:hint="4位数，如02/15，填写0215" android:maxLength="4" android:inputType="number" style="@style/InputEditTextStyle" />
+    </LinearLayout>
+    <LinearLayout android:id="@id/credit_layout_code" android:layout_marginLeft="@dimen/layout_verification_input_box_mLeft" android:layout_marginTop="@dimen/layout_verification_input_box_mTop_second" android:layout_marginRight="@dimen/layout_verification_input_box_mRight" style="@style/LayoutStyle">
+        <TextView android:text="安全码:" style="@style/InputTitleStyle" />
+        <EditText android:id="@id/edit_ValidCode" android:hint="卡背面的末三位数字" android:maxLength="3" android:inputType="number" style="@style/InputEditTextStyle" />
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/layout_verification_input_box_mLeft" android:layout_marginTop="@dimen/layout_verification_input_box_mTop_second" android:layout_marginRight="@dimen/layout_verification_input_box_mRight">
+        <LinearLayout android:layout_width="wrap_content" android:layout_weight="3.0" style="@style/LayoutStyle">
+            <EditText android:id="@id/edit_authcode" android:hint="请输入验证码" android:maxLength="4" android:inputType="number" style="@style/InputEditTextStyle" />
+        </LinearLayout>
+        <Button android:textSize="@dimen/font_medium" android:textColor="@android:color/white" android:id="@id/btn_resend" android:background="@color/back_orange" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/button_confirmation_mLeft" android:text="获取验证码" android:layout_weight="1.0" />
+    </LinearLayout>
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0" />
+    <Button android:id="@id/btn_verify_card" android:layout_marginLeft="@dimen/button_finish_pay_mLeft" android:layout_marginTop="@dimen/button_finish_pay_mTop" android:layout_marginRight="@dimen/button_finish_pay_mRight" android:layout_marginBottom="@dimen/button_finish_pay_mBottom" android:text="@string/wczf" style="@style/button_pay" />
+</LinearLayout>

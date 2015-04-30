@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_gravity="center" android:background="@drawable/shape_rectangle_white" android:layout_width="290.0dip" android:layout_height="230.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/waiting_logo" android:background="@drawable/loading_logo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="14.0dip" android:layout_marginTop="11.0dip" />
+    <ImageButton android:id="@id/waiting_close" android:background="@drawable/loading_close" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:layout_marginRight="10.0dip" android:layout_alignParentRight="true" />
+    <cn.paypalm.easypay.activity.SpinnerView android:id="@id/waiting_spinner" android:layout_width="75.0dip" android:layout_height="75.0dip" android:layout_centerInParent="true" />
+    <View android:id="@id/waiting_center" android:layout_width="1.0dip" android:layout_height="1.0dip" android:layout_centerInParent="true" />
+    <TextView android:textSize="14.0dip" android:textColor="@color/loading_fontcolor" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="年轻人玩得起的钱包" android:layout_below="@id/waiting_spinner" android:layout_centerHorizontal="true" />
+    <View android:background="@drawable/loading_rainbow" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignTop="@id/waiting_center" android:layout_alignParentBottom="true" />
+</RelativeLayout>

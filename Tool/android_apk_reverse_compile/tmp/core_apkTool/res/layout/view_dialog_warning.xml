@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_gravity="center" android:orientation="vertical" android:background="@drawable/shape_rectangle_white" android:layout_width="290.0dip" android:layout_height="230.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="50.0dip">
+        <ImageView android:layout_gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="30.0dip" android:layout_marginLeft="15.0dip" android:src="@drawable/loading_logo" android:scaleType="fitStart" android:layout_weight="1.0" />
+        <ImageButton android:layout_gravity="center_vertical" android:id="@id/dialog_top_cancel" android:background="@drawable/ico_close" android:layout_width="30.0dip" android:layout_height="30.0dip" android:layout_marginRight="10.0dip" android:scaleType="centerInside" />
+    </LinearLayout>
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+        <TextView android:textSize="@dimen/pp_padding_layout" android:textColor="@color/head_back" android:layout_gravity="center" android:id="@id/dialog_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="23.0dip" android:layout_marginRight="23.0dip" android:text="您的身份证校验失败，点击确认使用手机话费支付。" />
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="82.0dip">
+        <Button android:layout_gravity="center" android:id="@id/dialog_ok" android:layout_marginLeft="90.0dip" android:layout_marginRight="90.0dip" android:text="确定" android:layout_weight="1.0" style="@style/button_dialog_orange" />
+    </LinearLayout>
+</LinearLayout>

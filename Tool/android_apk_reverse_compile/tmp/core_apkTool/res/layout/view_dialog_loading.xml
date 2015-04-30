@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_gravity="center" android:orientation="vertical" android:background="@drawable/shape_rectangle_white" android:layout_width="290.0dip" android:layout_height="230.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="50.0dip">
+        <ImageView android:layout_gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="30.0dip" android:layout_marginLeft="15.0dip" android:src="@drawable/loading_logo" android:scaleType="fitStart" android:layout_weight="1.0" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <cn.paypalm.easypay.activity.SpinnerView android:layout_gravity="center" android:id="@id/loading_spinner" android:layout_width="75.0dip" android:layout_height="75.0dip" android:layout_marginBottom="25.0dip" />
+        <TextView android:textColor="@color/keypay_type_color" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="正在支付，请稍后......" />
+    </LinearLayout>
+</LinearLayout>
