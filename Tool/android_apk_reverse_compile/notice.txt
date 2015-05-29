@@ -1,4 +1,4 @@
-1、apktool ：反编译资源文件，如xml等。v2.0.0 apktool d core.apk
+1、apktool ：反编译资源文件，如xml等。v2.0.0 ,用法：apktool d -f core.apk test
 
 2、dex2jar：反编译dex文件，生成jar文件。
 
